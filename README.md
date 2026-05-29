@@ -4,7 +4,7 @@ A modern and responsive **E-Commerce Frontend Web Application** built using **Re
 
 ## Live Demo
 
-[Add your Vercel deployment link here]
+Deploy Link:- https://react-ecommerce-website-project.vercel.app/
 
 ## Project Overview
 
@@ -84,13 +84,13 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Vedant-Kengale/React-Ecommerce-website-project.git
 ```
 
 Navigate to project folder:
 
 ```bash
-cd your-project-name
+cd React-Ecommerce-website-project
 ```
 
 Install dependencies:
@@ -173,6 +173,6 @@ Through this project, I practiced:
 
 Engineering Student | Frontend Developer | React & Java Enthusiast
 
-GitHub: [Add your GitHub profile link]
+GitHub: [https://github.com/Vedant-Kengale/]
 
-LinkedIn: [Add your LinkedIn profile link]
+LinkedIn: [https://www.linkedin.com/in/Vedant-Kengale]
